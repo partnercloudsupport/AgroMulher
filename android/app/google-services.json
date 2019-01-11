@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "198109391389",
+    "firebase_url": "https://agromulher-47e3f.firebaseio.com",
+    "project_id": "agromulher-47e3f",
+    "storage_bucket": "agromulher-47e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198109391389:android:f1f2b1084297df61",
+        "android_client_info": {
+          "package_name": "com.mulheragro.agromulher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198109391389-ibgiulrolk7e2srqk3l2f46sbolvhl25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mulheragro.agromulher",
+            "certificate_hash": "8a0e47a910232229ff84c1c3794e6eae031101f1"
+          }
+        },
+        {
+          "client_id": "198109391389-kcon1omc97cljoi0da0hot47ad36rt23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDplr4ussVlSf2eTAfVEglEqerZz-DLBUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198109391389-kcon1omc97cljoi0da0hot47ad36rt23.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198109391389-fe324haup95lr1utog1a18eo2m9alcbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mulheragro.agromulher"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

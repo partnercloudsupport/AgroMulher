@@ -1,0 +1,8 @@
+{
+  "firebase": {
+    "projectId": "agromulher-47e3f",
+    "databaseURL": "https://agromulher-47e3f.firebaseio.com",
+    "storageBucket": "agromulher-47e3f.appspot.com",
+    "cloudResourceLocation": "us-central"
+  }
+}
